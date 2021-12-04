@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background: rgb(247,82,194);
+    background: linear-gradient(90deg, rgba(170, 72, 216, 0.572) 0%, rgba(104, 24, 96, 0.488) 35%, rgba(0,212,255,1) 100%);
+    font-family: 'ABeeZee', sans-serif;
+}
+h1 span{
+    color: rgb(134, 66, 168);
+}
+table tr td .mein-left {
+    text-align: center;
+}
+img{width:20%;height:20%;}
+.main-left,
+.main-right{
+    border:  2px solid black;
+    -webkit-box-shadow: -3px -5px 48px 28px rgba(187, 24, 189, 0.26);
+-moz-box-shadow: -3px -5px 48px 28px rgba(187, 24, 189, 0.26);
+box-shadow: -3px -5px 48px 28px rgba(187, 24, 189, 0.26);
+border-radius: 20px;
+}
